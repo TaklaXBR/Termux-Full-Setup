@@ -1,6 +1,6 @@
 Hi! Welcome to Termux full setup.
 
-This tool help you for install all packages.
+This tool help you for install all packages. After using this tool, you will not need to install packages again.
 
 Tool have 150 basic packages!
 
