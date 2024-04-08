@@ -2,30 +2,30 @@ Hi! Welcome to Termux full setup.
 
 This tool help you for install all packages.
 
-Tool have 150 basic packages! + kali linux setup + parrot os setup
+Tool have 150 basic packages!
 
 İnstall:
 
-'''apt updatate && apt upgrade -y'''
+```apt updatate && apt upgrade -y```
 
 
 
-'''pkg install pyhon'''
+```pkg install pyhon```
 
 
 
-'''pkg install git'''
+```pkg install git```
 
 
 
-'''pip install colorama'''
+```pip install colorama```
 
 
 
-'''git clone https://github.com/TaklaXBR/Termux-Full-Setup.git'''
+```git clone https://github.com/TaklaXBR/Termux-Full-Setup.git```
 
 
-'''cd Termux-Full-Setup'''
+```cd Termux-Full-Setup```
 
 
-'''python installallpackages.py'''
+```python installallpackages.py```
